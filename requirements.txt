@@ -14,6 +14,5 @@ requests==2.10.0
 requirements-txt==0.0.8
 scapy==2.3.2
 six==1.10.0
-vboxapi==1.0
 wrapt==1.10.8
 yarg==0.1.9
