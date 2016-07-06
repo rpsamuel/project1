@@ -1,7 +1,6 @@
 astroid==1.4.6
 colorama==0.3.7
 coverage==4.1
-dnet==1.12
 docopt==0.6.2
 funcsigs==1.0.2
 jenkins==1.0.2
@@ -13,6 +12,7 @@ pipreqs==0.4.3
 pylint==1.5.6
 requests==2.10.0
 requirements-txt==0.0.8
+scapy==2.3.2
 six==1.10.0
 vboxapi==1.0
 wrapt==1.10.8
